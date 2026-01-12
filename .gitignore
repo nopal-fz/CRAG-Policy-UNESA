@@ -1,0 +1,10 @@
+qdrant_storage/
+qdrant_storage/**
+
+data/raw_pages.jsonl
+data/chunks.jsonl
+
+.venv
+
+__pycache__/
+*.pyc

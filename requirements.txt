@@ -1,0 +1,17 @@
+pdfplumber
+pypdf
+rapidfuzz
+pandas
+tqdm
+streamlit
+qdrant-client
+sentence-transformers
+transformers
+torch
+numpy
+tqdm
+rank-bm25
+langchain
+langchain-core
+langchain-text-splitters
+langchain-ollama
